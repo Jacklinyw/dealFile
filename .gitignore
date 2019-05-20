@@ -1,0 +1,5 @@
+#忽略本地开发软件的设置
+.myeclipse
+.settings
+.classpath
+.project
